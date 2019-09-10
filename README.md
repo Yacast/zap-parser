@@ -1,3 +1,5 @@
+[![Documentation](https://godoc.org/github.com/Yacast/zap-parser?status.svg)](https://godoc.org/github.com/Yacast/zap-parser)
+
 # zap-parser
 
 A golang parser for [Uber's zap](https://github.com/uber-go/zap) logger json output.
