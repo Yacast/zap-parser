@@ -1,0 +1,10 @@
+{"level":"dpanic","ts":1568146267.0402062,"caller":"zap-parser/parser_test.go:48","msg":"bleeeh","v":0.03009423427283764,"attempt":3,"backoff":1,"stacktrace":"github.com/Yacast/zap-parser.TestParser_Start\n\t/Users/jcrouzet/work/github.com/Yacast/zap-parser/parser_test.go:48\ntesting.tRunner\n\t/Users/jcrouzet/.gvm/gos/go1.12.5/src/testing/testing.go:865"}
+{"level":"info","ts":1568146267.04032,"caller":"zap-parser/parser_test.go:46","msg":"blah"}
+{"level":"info","ts":1568146267.040344,"caller":"zap-parser/parser_test.go:46","msg":"blah"}
+{"level":"dpanic","ts":1568146267.04035,"caller":"zap-parser/parser_test.go:48","msg":"bleeeh","v":0.28323492407798767,"attempt":3,"backoff":1,"stacktrace":"github.com/Yacast/zap-parser.TestParser_Start\n\t/Users/jcrouzet/work/github.com/Yacast/zap-parser/parser_test.go:48\ntesting.tRunner\n\t/Users/jcrouzet/.gvm/gos/go1.12.5/src/testing/testing.go:865"}
+{"level":"info","ts":1568146267.040374,"caller":"zap-parser/parser_test.go:46","msg":"blah"}
+{"level":"warn","ts":1568146267.0403829,"caller":"zap-parser/parser_test.go:54","msg":"foo"}
+{"level":"warn","ts":1568146267.040395,"caller":"zap-parser/parser_test.go:54","msg":"foo"}
+{"level":"dpanic","ts":1568146267.040404,"caller":"zap-parser/parser_test.go:48","msg":"bleeeh","v":0.19334197044372559,"attempt":3,"backoff":1,"stacktrace":"github.com/Yacast/zap-parser.TestParser_Start\n\t/Users/jcrouzet/work/github.com/Yacast/zap-parser/parser_test.go:48\ntesting.tRunner\n\t/Users/jcrouzet/.gvm/gos/go1.12.5/src/testing/testing.go:865"}
+{"level":"info","ts":1568146267.040419,"caller":"zap-parser/parser_test.go:46","msg":"blah"}
+{"level":"warn","ts":1568146267.040425,"caller":"zap-parser/parser_test.go:54","msg":"foo"}
